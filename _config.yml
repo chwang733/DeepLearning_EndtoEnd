@@ -14,7 +14,7 @@ baseurl: "/DeepLearning_EndtoEnd"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Chihchung Wang
+title: An end-to-end deep learning using fastai
 
 # Short description of your site
 description: Place for general information about myself and projects
@@ -23,7 +23,7 @@ description: Place for general information about myself and projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://chwang733.github.io/aboutme.html"
   Projects: 
     - Language Model: "language-model"
     - Image Classifier: "image-classifier"
